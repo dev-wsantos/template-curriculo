@@ -1,0 +1,27 @@
+.container {
+  width: 90%;
+  max-width: 2024px;
+  min-height: 100%;
+  margin: auto;
+}
+
+.container .h-name {
+  width: 100%;
+  min-height: 100px;
+  margin-top: 5%;
+  margin-bottom: 100px;
+}
+.container .h-name h1 {
+  font-family: "Oswald-Bold";
+  font-weight: bold;
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: #232323;
+}
+.container .h-name h2 {
+  font-family: "Oswald-Bold";
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #00eeff;
+}
